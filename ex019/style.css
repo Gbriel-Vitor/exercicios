@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(77, 226, 226);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 400;
+    font-style: italic;
+    
+
+}
+h1{
+    background-color: white;
+           
+            text-align: center;
+}
+h1#principal{
+    background-color: yellow;
+  
+}
+h2{
+    background-color: violet;
+   
+    text-align: center;
+}
+p{
+    background-color: rgb(201, 135, 221);
+}
+p#htmlbasico{
+    background-color: rgb(224, 64, 64);
+    font-style: oblique;
+}
+.basico{
+    background-color: white;
+}
+.medio{
+    background-color: rgb(87, 8, 235);
+}
+.trecho{
+    background-color: black;
+}
